@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/33751863/181150554-da70a5b2-1e42-443e-b2ba-b0afbe311ce2.png)
 ### Hi there 👋, My Name Is Prince Thakur
-#### I am a Hybrid App Developer
+#### I am a Cross-Platofrm App Developer
 
 
 
